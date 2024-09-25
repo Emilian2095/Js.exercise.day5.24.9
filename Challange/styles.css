@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    width: 100px;
+    border-radius: 10px;
+    padding: .2rem;
+}
+.container{
+    display: flex;
+    gap: 1rem;
+    margin: 5rem auto;
+}
+.container img{
+    height: 150px;
+
+}
+.card{
+    height: 300px;
+;
+}
+#output{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5rem auto;
+}
+#image1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5rem auto;
+}
